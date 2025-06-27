@@ -2,7 +2,7 @@ import java.io.*;
 import java.util.Scanner;
 
 class FileIO {
-    private static final String FILE_NAME = "note.txt";
+    private static final String FILE_NAME = "notes.txt";
 
     public static void main(String[] args) {
 
