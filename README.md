@@ -24,7 +24,7 @@ Write, store, and view your thoughts – directly from the terminal.
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone or Download
-Place `NotesManager.java` in your working directory.
+Place `FileIO.java` in your working directory.
 
 ### 2️⃣ Compile
 ```bash
